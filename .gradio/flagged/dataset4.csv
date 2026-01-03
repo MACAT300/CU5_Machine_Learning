@@ -1,0 +1,3 @@
+job_cat_encoded,experience_level,employment_type,work_models,work_year,employee_residence,company_location,company_size,Predicted Salary (USD),timestamp
+1,Executive-level,Freelance,On-site,2023,American Samoa,Bahamas,Medium,0,2026-01-02 17:43:22.241124
+1,Executive-level,Freelance,On-site,2023,American Samoa,Bahamas,Medium,0,2026-01-02 17:43:27.941567
